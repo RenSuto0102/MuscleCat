@@ -10,7 +10,7 @@
 #include <ctime>
 #include <fstream>
 
-// メイン関数 (WinMain)
+// メイン関数 (WinMain)123
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow)
 {
     SetCurrentDirectoryA("d:\\MuscleCat");
